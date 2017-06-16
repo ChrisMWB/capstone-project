@@ -1,1 +1,8 @@
+---
+title: "Elected Project Proposal"
+author: "Christopher Brown"
+date: "June 15 2017"
+output: html_document
+---
+
 # capstone-project
